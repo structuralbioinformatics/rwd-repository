@@ -1,5 +1,3 @@
-# Code for Figures from "Integrating Transcriptomics and Real-World Data" Paper
-
 This repository contains the code used to generate the figures presented in the paper *"The usage of transcriptomics datasets as sources of Real-World Data for clinical trialling"*. The paper describes the development of a patient repository that combines high-throughput transcriptomics data with clinical and demographic Real-World Data (RWD). This repository includes the **scripts and datasets necessary for reproducing the figures**.
 
 ## Contents
