@@ -2,7 +2,7 @@ This repository contains the code used to generate the figures presented in the 
 
 ## Contents
 
-- R scripts for **figure generation** (`figures/`)
+- R scripts for **figure generation** (`scripts/`)
 
 ## Data
 Due to data filesize limits imposed by GitHub, datasets are available in a separate repository. The files have been uploaded to [Zenodo](https://zenodo.org/records/13930499).
