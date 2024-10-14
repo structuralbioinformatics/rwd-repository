@@ -1,0 +1,19 @@
+RColorBrewer - For color palettes in plots
+biomaRt - For biomart queries (install using bioconductor)
+cowplot - For enhanced plotting themes and layouts
+dplyr - For data manipulation
+ggVennDiagram - For generating Venn diagrams
+ggbreak - For adjusting scales in plots
+ggplot2 - For creating visualizations
+ggrepel - For better placement of text labels in ggplot2
+matrixTests - For performing matrix-based statistical tests
+naniar - For handling missing data visualization
+purrr - For functional programming
+readr - For reading CSV files
+readxl - For reading Excel files
+reshape2 - For reshaping data
+rstatix - For statistical tests
+stringr - For string manipulation
+tidyr - For data manipulation and reshaping
+tidyverse - For data manipulation and wrangling
+xlsx - For reading and writing Excel files
